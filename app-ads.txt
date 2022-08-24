@@ -1,5 +1,6 @@
-facebook.com, xxx, DIRECT, c3e20eee3f780d68
+facebook.com, 1345319862532215, DIRECT, c3e20eee3f780d68
 applovin.com, 435e205120fd33ab7fc7f8f53c1c6cc0, DIRECT
+google.com, pub-8063528688185683, DIRECT, f08c47fec0942fa0
 bidease.com, exchange-20, RESELLER
 exchange.admazing.co, AM3, RESELLER
 spotx.tv, 117872, RESELLER, 7842df1d2fe2db34
